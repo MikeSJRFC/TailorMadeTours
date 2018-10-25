@@ -8,7 +8,7 @@ using System.Windows;
 
 namespace TailorMadeTours {
   /// <summary>
-  /// Interaction logic for App.xaml
+  /// Interaction logic for App.xaml - comment test
   /// </summary>
   public partial class App : Application {
   }
